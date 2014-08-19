@@ -18,13 +18,17 @@ body {
 
 .navbar {
    background:rgba(0,0,0,0.3);   /* for latest browsers */
-   background: #000;  /* fallback for older browsers */
+ 
 }
 
 /* footer */
 .footer {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
+}
+
+.jumbotron{
+   background:rgba(255,255,255,0.5);   /* for latest browsers */
 }
 
 /*
